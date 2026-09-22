@@ -1,1 +1,1 @@
-print("Hello! This is Oluwatoba Lojede's Jenkins CI/CD Project.")
+print("Hello! This is Oluwatoba Lojede's automated Jenkins CI/CD project.")
