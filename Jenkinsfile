@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     environment {
-        DOCKER_IMAGE = "toba11234/jenkins-cicd-project"
+        DOCKER_IMAGE = "tobal1234/jenkins-cicd-project"
     }
 
     stages {
